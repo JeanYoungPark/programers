@@ -23,3 +23,5 @@ int solution(vector<vector<string>> clothes) {
 //    [blue_sunglasses, eyewear],
 //    [green_turban, headgear]
 //]
+
+//https://programmers.co.kr/learn/courses/30/parts/12077
