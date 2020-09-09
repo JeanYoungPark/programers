@@ -34,3 +34,5 @@ int main() {
     int location = 0;
     solution(priorities, location);
 }
+
+//https://programmers.co.kr/learn/courses/30/parts/12081
