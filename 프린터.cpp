@@ -14,7 +14,7 @@ int solution(vector<int> priorities, int location) {
         int now_index = printer.front();
         printer.pop();
         //max_element = 최대값 원소를 찾는다.
-        if (priorities[now_index] != *max_element(priorities.begin(), priorities.end())) { 
+        if (priorities[now_index] != *max_element(priorities.begin(), priorities.end())) {
             //최대값이 아닌경우
             printer.push(now_index);
         }
